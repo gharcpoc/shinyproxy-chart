@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  shinyproxy:
+  - apiVersion: v2
+    appVersion: 2.6.1
+    created: "2023-10-16T12:14:17.767855309Z"
+    description: A Helm chart to install Shinyproxy
+    digest: cf8faab110570ee4c2e896e6c1b02362bb43f853059ac771497464fe84630050
+    name: shinyproxy
+    type: application
+    urls:
+    - https://github.com/gharcpoc/shinyproxy-chart/releases/download/shinyproxy-0.6.7/shinyproxy-0.6.7.tgz
+    version: 0.6.7
+generated: "2023-10-16T12:14:17.767867609Z"
